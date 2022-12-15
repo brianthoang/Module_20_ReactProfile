@@ -14,11 +14,11 @@ body {
   
   :root {
     /* from coolers: https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51 */
-    --orange-soda:#F06543;
+    --green:#49f043a2;
     --platinum:#E8E9EB;
     --alabaster:#E0DFD5;
     --onyx:#313638;
-    --sandy-brown: #F09D51;
+    --purple: #b051f0;
   }
   
   *  {
