@@ -9,7 +9,7 @@ function Navigation(props) {
             <NavLink to="/portfolio"> </NavLink>
             <NavLink to="/resume"> </NavLink>
         </div>
-    )
+    );
 }
 
 export default Navigation;

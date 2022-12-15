@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Module-1-Challenge",
+        "github": "https://github.com/brianthoang/Module-1-Challenge-",
+        "deployed": "https://brianthoang.github.io/Module-1-Challenge-/",
+        "topics": "html"
+    },
+    {
+        "id": 2, 
+        "name": "Module-Hw-2-Portfolio",
+        "github": "https://github.com/brianthoang/Module-Hw-2-Portfolio",
+        "deployed": "https://brianthoang.github.io/Module-Hw-2-Portfolio/",
+        "topics": "html, css"
+    },
+    {
+        "id": 3,
+        "name": "Module-3-Challenge-Homework",
+        "github": "https://github.com/brianthoang/Module-3-Challenge-Homework",
+        "deployed": "https://brianthoang.github.io/Module-3-Challenge-Homework/",
+        "topics": "html, css, javascript"
+    },
+    {
+        "id": 4,
+        "name": "Module-4-Challenge-Webapi",
+        "github": "https://github.com/brianthoang/Module-4-Challenge-Webapi",
+        "deployed": "https://brianthoang.github.io/Module-4-Challenge-Webapi/",
+        "topics": "html, css, javascript, api"
+    },
+    {
+        "id": 5,
+        "name": "5-Daily_Scheduler",
+        "github": "https://github.com/brianthoang/5_Daily_Scheduler",
+        "deployed": "https://brianthoang.github.io/5_Daily_Scheduler/",
+        "topics": "html, css, javascript, api, jquery"
+    }
+]
